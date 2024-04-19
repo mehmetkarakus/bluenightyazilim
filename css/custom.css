@@ -17,3 +17,11 @@
     display: flex;
     align-items: center;
 }
+
+/*-------------reference--------------*/
+
+.referene__gr{
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    gap: 50px;
+}
