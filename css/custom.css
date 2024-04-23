@@ -22,6 +22,18 @@
     background-color: #49acfd !important;
 }
 
+.blog__hd{
+    height: 461px !important;
+}
+
+.home__about--df{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    height: 100%;
+}
+
 /*-------------reference--------------*/
 
 .referene__gr{
